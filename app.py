@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Мини тест – 2 проверки")
+st.title("Мини тест")
 
 answer_yes_no = st.radio(
     "Обичаш ли Python?",
